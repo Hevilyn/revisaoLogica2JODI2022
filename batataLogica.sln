@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "batataLogica", "batataLogica\batataLogica.csproj", "{A8290EC2-909A-43C9-9180-FC2AB2A51577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8290EC2-909A-43C9-9180-FC2AB2A51577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8290EC2-909A-43C9-9180-FC2AB2A51577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8290EC2-909A-43C9-9180-FC2AB2A51577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8290EC2-909A-43C9-9180-FC2AB2A51577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00A6E704-3E40-493D-B69A-9B4201B37E54}
+	EndGlobalSection
+EndGlobal
